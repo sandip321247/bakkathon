@@ -1,0 +1,9 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+sqlmodel==0.0.22
+pydantic==2.8.2
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
+streamlit==1.37.1
+requests==2.32.3
+websocket-client==1.8.0
